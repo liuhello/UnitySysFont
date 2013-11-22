@@ -1,6 +1,8 @@
 This page is for Unity 3.x. If you are looking for Unity 4.x please
 [check here](https://github.com/imkira/unity-sysfont/tree/unity4x).
 
+add multi color per string support. like ngui UILabel use tag [FF0000] for red color.
+
 unity-sysfont
 =============
 
